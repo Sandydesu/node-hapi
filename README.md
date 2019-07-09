@@ -1,5 +1,5 @@
 # Node with Hapi 
-This is POC of node with hapi. Here we are using Hapi, Mongodb, Node
+This is POC of node with hapi. Here we are using Hapi, Mongodb, Node, Joi
 
 ## Requirements
 Node >6
