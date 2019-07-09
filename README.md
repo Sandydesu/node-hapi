@@ -8,9 +8,16 @@ Please refer this Document https://nodejs.org/en/
 
 Mongodb
 
-Please sign up with Mongodb Atlas we can get free mongodb datbase use below link
+Please download and install  Mongodb
 
-https://www.mongodb.com/cloud/atlas
+https://www.mongodb.com/download-center/community
+
+RoboMongo
+
+Robomongo is a tool for accessing mongodb. download Robo 3T
+
+https://robomongo.org/download
+
 
 ## Installation
 Go to node-hapi folder
