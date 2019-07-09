@@ -28,6 +28,6 @@ cd node-hapi or cd <project_folder_name>
 
 npm install
 
-node app.js
+npm start
 
 ```
