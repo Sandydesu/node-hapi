@@ -31,3 +31,6 @@ npm install
 npm start
 
 ```
+
+## Sample postman collection
+https://github.com/Sandydesu/node-hapi/blob/master/sample-collection.json
