@@ -6,16 +6,16 @@
 	},
 	"item": [
 		{
-			"name": "localhost:3000/users",
+			"name": "localhost:4000/users",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:3000/users",
+					"raw": "localhost:4000/users",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"users"
 					]
@@ -24,7 +24,7 @@
 			"response": []
 		},
 		{
-			"name": "localhost:3000/users",
+			"name": "localhost:4000/users",
 			"request": {
 				"method": "POST",
 				"header": [
@@ -40,11 +40,11 @@
 					"raw": "{\n\t\"first_name\":\"sandeep\",\n\t\"last_name\":\"desu\",\n\t\"age\":27\n}"
 				},
 				"url": {
-					"raw": "localhost:3000/users",
+					"raw": "localhost:4000/users",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"users"
 					]
@@ -53,7 +53,7 @@
 			"response": []
 		},
 		{
-			"name": "localhost:3000/users/5d24c1a9f2db7d41b0ba520e",
+			"name": "localhost:4000/users/5d24c1a9f2db7d41b0ba520e",
 			"request": {
 				"method": "PUT",
 				"header": [
@@ -69,11 +69,11 @@
 					"raw": "{\r\n    \"first_name\" : \"sandeep\",\r\n    \"last_name\" : \"desu\",\r\n    \"age\" : 27\r\n}"
 				},
 				"url": {
-					"raw": "localhost:3000/users/5d24c1a9f2db7d41b0ba520e",
+					"raw": "localhost:4000/users/5d24c1a9f2db7d41b0ba520e",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"users",
 						"5d24c1a9f2db7d41b0ba520e"
@@ -83,16 +83,16 @@
 			"response": []
 		},
 		{
-			"name": "localhost:3000/users/5d24c1a9f2db7d41b0ba520e",
+			"name": "localhost:4000/users/5d24c1a9f2db7d41b0ba520e",
 			"request": {
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "localhost:3000/users/5d24c1a9f2db7d41b0ba520e",
+					"raw": "localhost:4000/users/5d24c1a9f2db7d41b0ba520e",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"users",
 						"5d24c1a9f2db7d41b0ba520e"
